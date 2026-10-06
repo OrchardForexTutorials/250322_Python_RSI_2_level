@@ -1,13 +1,11 @@
 # Python RSI 2 Level Strategy
 
 <!-- START_HEADER -->
-
 Youtube:  
 https://youtu.be/A7NEHRM9VnE
 
 For a broker with fast execution and tight spreads sign up to IC Markets using our affiliate link <br>
 https://orchardforex.com/ic
-
 <!-- END_HEADER -->
 
 This project demonstrates how to add an RSI-based trading strategy to a Python trading framework connected to MetaTrader 5.
